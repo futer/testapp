@@ -1,6 +1,6 @@
 app-release :
 
-Bugged : Facebook logout 
+Bugged : Facebook logout (After logout, user must relaunch app for using)
 
 Bugged : Send photo to server
 
